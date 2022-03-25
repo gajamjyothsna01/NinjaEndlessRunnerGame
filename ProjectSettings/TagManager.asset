@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Platform
+  - Coins
   layers:
   - Default
   - TransparentFX
@@ -53,4 +54,7 @@ TagManager:
     locked: 0
   - name: Environment
     uniqueID: 2089110197
+    locked: 0
+  - name: Gems
+    uniqueID: 358069927
     locked: 0
